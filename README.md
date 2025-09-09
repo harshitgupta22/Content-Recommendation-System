@@ -28,3 +28,9 @@ Pandas, NumPy (data processing)
 Scikit-learn (TF-IDF, cosine similarity)
 Matplotlib, Seaborn (visualization)
 SciPy (sparse matrix operations)
+
+EDA (Exploratory Data Analysis) :
+
+<img width="1148" height="766" alt="Screenshot 2025-09-09 153112" src="https://github.com/user-attachments/assets/698181b4-4fe7-465f-b206-763501a54d36" />
+
+<img width="732" height="746" alt="Screenshot 2025-09-09 152835" src="https://github.com/user-attachments/assets/23411699-b6d9-4ca1-bdb0-704ba1029dae" />
