@@ -2,21 +2,15 @@
 
 This project implements a content-based recommendation system that suggests similar products based on their descriptions, tags, and metadata. The model uses TF-IDF vectorization and cosine similarity to compute product similarity and generate recommendations.
 
-📌 Overview
+📌 Overview :
 
-Dataset: Walmart product reviews dataset (TSV format, ~5k records).
-
-Goal: Recommend products to users based on product descriptions, tags, brand, and categories.
-
-Approach:
-
-Preprocess dataset (handle missing values, select relevant columns).
-
-Convert text features into numerical vectors using TF-IDF.
-
-Compute cosine similarity between product vectors.
-
-Recommend top N similar products for a given product.
+    Dataset: Walmart product reviews dataset (TSV format, ~5k records).
+    Goal: Recommend products to users based on product descriptions, tags, brand, and categories.
+    Approach:
+    Preprocess dataset (handle missing values, select relevant columns).
+    Convert text features into numerical vectors using TF-IDF.
+    Compute cosine similarity between product vectors.
+    Recommend top N similar products for a given product.
 
 🚀 Features
 
