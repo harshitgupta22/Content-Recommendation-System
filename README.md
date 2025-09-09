@@ -49,8 +49,4 @@ Deploy as a web app with Flask/Streamlit
 Add evaluation metrics (precision@k, recall@k, NDCG)
 Support for real-time recommendations
 
-🤝 Contributing :
-
-Feel free to fork this repo and submit pull requests. Contributions are always welcome!
-
 
